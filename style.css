@@ -1,0 +1,30 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#rect-cont {
+  border: 1px solid black;
+  display: flex;
+}
+
+.rectangle {
+  width: 250px;
+  height: 500px;
+  margin: 0rem;
+}
+
+#rectangle1 {
+  background-color: #283390;
+}
+
+#rectangle2 {
+  background-color: #E1C61E;
+}
+
+#rectangle3 {
+  background-color: #D53143;
+}
