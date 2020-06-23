@@ -20,7 +20,7 @@
 
 <h1 align="center">
   My project:<br><br>
-  <img src="./chad-flag.png" alt="Chad Flag" />
+  <img alt="Chad Flag" title="Chad Flag" src="./chad-flag.png" width="100%" />
 </h1>
 
 ## 🚀 Technologies
