@@ -1,4 +1,5 @@
 <h1 align="center">
+    Original:<br>
     <img alt="Chad Flag" title="Chad Flag" src="https://cdn.countryflags.com/thumbs/chad/flag-400.png" width="220px" />
 </h1>
 
@@ -18,6 +19,7 @@
 <br>
 
 <p align="center">
+  My project:<br>
   <img src="./chad-flag.png" alt="Chad Flag" />
 </p>
 
@@ -34,7 +36,7 @@ Chad Flag, made with HTML and CSS, for practice.
 
 ## 🔖 Layout
 
-You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/rNaojeJ).
+You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/rNaojeJ>).
 
 ## 🤔 How contribute
 
