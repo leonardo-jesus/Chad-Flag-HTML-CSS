@@ -19,7 +19,7 @@
 <br>
 
 <h1 align="center">
-  My project:<br>
+  My project:<br><br>
   <img src="./chad-flag.png" alt="Chad Flag" />
 </h1>
 
