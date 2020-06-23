@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Chad Flag" title="Chad Flag" src="https://img2.gratispng.com/20180616/kv/kisspng-flag-of-chad-flag-of-romania-romania-flag-5b25d32dde42b4.1745799615292055499104.jpg" width="220px" />
+    <img alt="Chad Flag" title="Chad Flag" src="https://cdn.countryflags.com/thumbs/chad/flag-400.png" width="220px" />
 </h1>
 
 <p align="center">
