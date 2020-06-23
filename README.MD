@@ -1,5 +1,5 @@
 <h1 align="center">
-    Original:<br>
+    Original:<br><br>
     <img alt="Chad Flag" title="Chad Flag" src="https://cdn.countryflags.com/thumbs/chad/flag-400.png" width="220px" />
 </h1>
 
@@ -18,10 +18,10 @@
 
 <br>
 
-<p align="center">
+<h1 align="center">
   My project:<br>
   <img src="./chad-flag.png" alt="Chad Flag" />
-</p>
+</h1>
 
 ## 🚀 Technologies
 
